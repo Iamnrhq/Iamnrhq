@@ -1,0 +1,16 @@
+
+.card{
+    transition: transform .3s ease;
+  }
+  .card:hover{
+    transform: scale(1.1);
+  }
+  
+  .beauty{
+    transition: transform .3s ease;
+  }
+
+  .beauty:hover{
+    transform: scale(1.1);
+  }
+
